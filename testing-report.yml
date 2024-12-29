@@ -20,9 +20,5 @@
   status: pass
 
 - summary: |
-    Просмотр рейтинга с достижениями игроков сайта
-  status: pass
-
-- summary: |
     Изменение языка кода в процессе игры
   status: pass
