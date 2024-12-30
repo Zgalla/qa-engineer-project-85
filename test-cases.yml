@@ -6,7 +6,7 @@
   prerequisites: |
     Открыта страница логина
   test-data: |
-    Логин = Grem1 Пароль = password
+    Логин = Grem1, Пароль = password
   steps:
     - Вводим логин
     - Вводим пароль
