@@ -1,19 +1,19 @@
 ---
 - summary: |
     Успешная регистрация пользователя через электронную почту
- status: pass
+  status: pass
 
 - summary: |
     Невозможность регистрации с уже существующим nickname
- status: pass
+  status: pass
 
 - summary: |
     Невозможность регистрации с не существующим email
- status: fail
+  status: fail
 
 - summary: |
     Проверка регистрации с одним email дважды
- status: pass
+  status: pass
 
 - summary: |
     Проверка пароля состоящего из 4 символов на соответствие требованию
@@ -21,31 +21,31 @@
 
 - summary: |
     Проверка пароля состоящего из 17 символов на соответствие требованию
- status: pass
+  status: pass
 
 - summary: |
     Успешная авторизация через GitHub
- status: pass
+  status: pass
 
 - summary: |
     Успешная авторизация через Discord
- status: fail
+  status: fail
 
 - summary: |
     Успешная авторизация через электронную почту
- status: pass
+  status: pass
 
 - summary: |
     Проверка возможности запустить игру без регистрации
- status: pass
+  status: pass
 
 - summary: |
     Создание игры с ботом
- status: pass
+  status: pass
 
 - summary: |
     Изменение языка кода в процессе игры
- status: pass
+  status: pass
 
 - summary: |
     Проверка возможности сменить язык для чтения задачи
