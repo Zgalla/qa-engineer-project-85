@@ -150,6 +150,7 @@ status: pass
 - summary: |
     Проверка возможности сыграть в ничью 
 status: pass
+
 - summary: |
     Проверка возможности создать задачу 
 status: fail
